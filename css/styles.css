@@ -2,7 +2,7 @@ body{
     font-family:'Roboto', sans-serif;
     font-weight: 400;
     background-color: #FFFFFF;
-    color:#2E2F42 ;
+    color:#434455; 
 }
 
 .list {
@@ -27,7 +27,7 @@ button{
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -42,6 +42,7 @@ button{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:#2E2F42
 }
 
 .menu-link:hover,
@@ -72,7 +73,7 @@ button{
     font-weight: 700;
     line-height: 1.07; 
     letter-spacing: 0.02em;
-    color: #FFFF;
+    color: #FFFFFF;
 }
 
 .order-service-btn{
@@ -96,13 +97,14 @@ button{
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color:#2E2F42;
 }
 
 .about-description{
-    color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /*Our Team Section*/
@@ -118,6 +120,7 @@ button{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:#2E2F42;
 }
 
 .team-list-item{
@@ -129,6 +132,7 @@ button{
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color:#2E2F42;
 }
 
 .team-description{
@@ -147,6 +151,7 @@ button{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:#2E2F42;
 }
 
 .portfolio-subtitle{
@@ -154,6 +159,7 @@ button{
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color:#2E2F42;
 }
 
 .portfolio-discription{
@@ -171,6 +177,7 @@ button{
 
 .footer-logo{
     color: #F4F4FD;
+    line-height: 1.17; 
 }
 .footer-discription{
     color: #F4F4FD;
